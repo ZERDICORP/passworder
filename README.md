@@ -1,7 +1,7 @@
 # passworder
 This is an application for storing passwords and logins.
 
-Command to run: _python main.py_
+Command to run: _python main.pyw_
 
 P.S. incredible design, akhtung!
 
