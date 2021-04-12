@@ -1,6 +1,8 @@
 # passworder
 This is an application for storing passwords and logins.
 
+Command to run: _python main.pyw_
+
 P.S. incredible design, akhtung!
 
 ![alt text](https://github.com/ZERDICORP/passworder/blob/master/assets/screenshots/s1.png?raw=true)
